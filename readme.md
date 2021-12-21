@@ -4,11 +4,11 @@
 
 <h2>Imagenes previas del desafio<h2>
 
-<p>Movies - home</p>
+<p>Movies</p>
 <img src="https://github.com/victoriadaluz/Manipulando-Elementos-con-JS/blob/master/public/img/home.png">
-<p>Movies - movies</p>
+<p>Movies</p>
 <img src="https://github.com/victoriadaluz/Manipulando-Elementos-con-JS/blob/master/public/img/movies.png">
-<p>Movies - add</p>
+<p>Movies</p>
 <img src="https://github.com/victoriadaluz/Manipulando-Elementos-con-JS/blob/master/public/img/add.png">
 
 
